@@ -1,4 +1,4 @@
-# Linguistica Computazionale A.A. 2022/23
+# Linguistica Computazionale A.A. 2023/24
 ## Cosa useremo
 
 - **Python 3.6 (o versioni più recenti, es 3.10)**: https://www.python.org/downloads/
